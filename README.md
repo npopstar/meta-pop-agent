@@ -43,4 +43,4 @@ python main.py
 
 ## 👤 プロジェクト
 
-MetaZero / メタPOP構想
+メタPOP構想
